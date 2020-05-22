@@ -130,7 +130,7 @@ body {
 
 .new-product-main {
     height: 765px;
-    margin-left: 30px;
+    margin-left: 33px;
     color: #fff;
     background: #000;
     box-sizing: border-box;
@@ -417,7 +417,7 @@ body {
 }
 
 .pro-slide {
-    width: 16.5%;
+    width: 16.533%;
     height: 600px;
     float: left;
     overflow: hidden;
@@ -425,7 +425,7 @@ body {
 }
 
 .pro-slide:nth-of-type(2) {
-    width: 66%;
+    width: 66.333%;
 }
 
 .pro-slide:nth-of-type(2)>.bg {
@@ -680,6 +680,10 @@ footer a {
         margin-top: 20px;
         border: 1px solid white;
         box-sizing: border-box;
+    }
+
+    .new-product-main {
+        /* margin: 23px; */
     }
 
     .fixed-top {
